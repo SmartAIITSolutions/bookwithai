@@ -7,6 +7,21 @@ Salon owners run their day on one app. Clients book online, and **SANAA**, our A
 🌐 Salons: [bookwithai.app](https://bookwithai.app) · 📱 Apps: [bookwithai.app/download](https://bookwithai.app/download)
 🌐 SANAA for any appointment business: [getsanaa.com](https://getsanaa.com) · [Docs](https://getsanaa.com/docs)
 
+## Try it yourself: talk to SANAA
+
+**[bookwithai.app/demo](https://bookwithai.app/demo)** · or call **+1 (618) 649-8158**
+
+Have a real conversation with SANAA, the AI receptionist, and watch her book straight into a live calendar. It takes about two minutes.
+
+1. Open the demo page and press **Talk to SANAA** under "Talk in your browser." Allow microphone access if your browser asks. Or call the number above from any phone.
+2. Say you'd like an appointment at **Glow Studio**, a demo salon with one stylist, Maya. Ask for a time, a service, and your first name.
+3. Try a time that is already taken. SANAA checks the live calendar, so she won't double-book it.
+4. Watch the calendar on the page fill in, with the booking appearing in the client and owner apps.
+
+A few notes: calls end automatically after 3 minutes, there are up to 3 demo calls a day per visitor, and names and phone numbers can be hard to hear in the browser, so speak them slowly. Glow Studio is a demo salon. No real appointment is created and nobody will contact you.
+
+---
+
 *Figures as of 18 November 2026, from live production data for the two founding salons. Demo and internal test accounts are excluded.*
 
 ---
