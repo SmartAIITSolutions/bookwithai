@@ -58,7 +58,7 @@ Both founding salons have booked every week since July. Growth now has to come f
 | SANAA plan | Founding price | Regular price | You save | Calling minutes included | Founding price per minute | Extra minutes |
 |---|---|---|---|---|---|---|
 | Starter | **$29 / month** | $49 / month | $20 (41%) | 100 | $0.29 | $0.45 / min |
-| Essential | **$54.99 / month** | $89 / month | $34.01 (38%) | 200 | $0.275 | $0.35 / min |
+| Essential | **$55 / month** | $89 / month | $34 (38%) | 200 | $0.275 | $0.35 / min |
 | Professional | **$89 / month** | $149 / month | $60 (40%) | 400 | $0.223 | $0.30 / min |
 | Premier | **$149 / month** | $249 / month | $100 (40%) | 750 | $0.199 | $0.25 / min |
 
