@@ -51,9 +51,19 @@ Both founding salons have booked every week since July. Growth now has to come f
 
 ## Business model
 
-- **Salon membership:** $14.99 per month, one flat price for the whole salon, unlimited staff.
-- **SANAA receptionist:** an add-on, with a $5 trial and then monthly plans by calling minutes.
+- **Salon membership:** **$14.99 per month**, one flat price for the whole salon, unlimited staff.
 - **Card payments:** a 1% platform fee (20 cents minimum) on payments taken through the app.
+- **SANAA, the AI receptionist (add-on), priced by calling minutes.** Salons start with a **$5 trial** of 30 calling minutes or 7 days, whichever comes first, then pick a plan:
+
+| SANAA plan | Founding price | Regular price | Calling minutes included | Extra minutes |
+|---|---|---|---|---|
+| Starter | **$29 / month** | $49 / month | 100 | $0.45 / min |
+| Essential | **$69 / month** | $149 / month | 200 | $0.45 / min |
+| Professional | **$129 / month** | $249 / month | 400 | $0.35 / min |
+| Premier | **$219 / month** | $399 / month | 750 | $0.30 / min |
+
+- **SANAA for any appointment business** ([getsanaa.com/pricing](https://getsanaa.com/pricing)): plans from **$39 per month** with 150 calling minutes, after a **free 7-day test** (no card required).
+- **Founding Member Credit:** a new salon earns a free month by connecting card payments and taking five card-paid bookings in its first 30 days. This pushes new salons to real use.
 
 ## Why it can win
 
